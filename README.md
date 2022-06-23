@@ -7,9 +7,9 @@
 - 📫 How to reach me: kalimulin.91@bk.ru | [@qqepsho](https://telegram.me/qqepsho)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovsy1)](https://github.com/ovsy1/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovsy1)](https://github.com/ovsy1/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ovsy1&repo=RSSaggregator)](https://github.com/ovsy1/RSSaggregator)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ovsy1&repo=genDiff)](https://github.com/ovsy1/genDiff)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ovsy1&repo=Brain-game)](https://github.com/ovsy1/Brain-game)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovsy1)](https://github.com/ovsy1/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ovsy1)](https://github.com/ovsy1/github-readme-stats)
