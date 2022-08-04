@@ -4,7 +4,7 @@
 
 - 🧰 I’m currently open to work
 - 🌱 I’m currently studying at the Hexlet
-- 📫 How to reach me: kalimulin.91@bk.ru | [@qqepsho](https://telegram.me/qqepsho)
+- 📫 How to reach me: kalimulin.91@bk.ru | telegram: [@qqepsho](https://telegram.me/qqepsho)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ovsy1&repo=RSSaggregator)](https://github.com/ovsy1/RSSaggregator)
